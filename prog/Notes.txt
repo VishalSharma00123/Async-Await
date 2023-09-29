@@ -1,0 +1,1 @@
+1. Calling a function inside the another fucntion is called callback function
